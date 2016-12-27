@@ -1,4 +1,9 @@
 /* CSS for website */
+
+body {
+    font-family: "Verdana", "Arial", sans-serif;
+}
+
 ol li li {
     list-style-type: upper-alpha; 
 }
@@ -11,3 +16,4 @@ h1 {
     border-style: solid;
     border-top: medium solid #9b9b9b;
 }
+
