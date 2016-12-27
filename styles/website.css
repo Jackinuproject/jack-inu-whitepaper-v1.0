@@ -9,7 +9,9 @@ ol li li {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "TeleGrotesk";
+    font-family: 'HKGroteskRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
     color: #e20074;
 }
 
