@@ -7,6 +7,6 @@
     page-break-after: always;
 }
 
-ol.multiple-choice {
+ol li li {
     list-style-type: upper-alpha; 
 }
