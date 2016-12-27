@@ -33,4 +33,5 @@ This book is pre-configured to produce styling consistent with T-Mobile's style 
 
 1. On the left-hand settings menu, click **Options**
 2. Scroll down to **Features** and make sure the "E-Books (PDF, MOBI, EPUB)" switch is on and green. ![](/assets/Screen Shot 2016-12-27 at 5.42.33 PM.png)
+3. Click "Save" and you're done!
 
