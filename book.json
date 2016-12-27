@@ -3,7 +3,7 @@
         "edition": "student",
         "slides": false,
         "outputContent": [
-            "content",
+            "content"
         ],
     },
     "plugins": ["wrapclass", "addcssjs"],
