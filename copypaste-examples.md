@@ -75,5 +75,5 @@ To add a variable:
 
 > **Hint** Make sure that there is a comma before the variable you just added. Make sure there is *no* comma after the variable, if it is the last one. book.json **must** be valid JSON for your book to be created correctly, and Gitbook might not tell you that it isn't.
 
-> **Hint** Variable *names* should not contain spaces.
+> Variable *names* should **never** contain spaces.
 
