@@ -1,7 +1,7 @@
 # First Chapter
 
 ![](/images/Megan Wedding Photo.jpg)
-## {{ book.productName }}
+## This is the section heading
 
 ### Heading 3
 
