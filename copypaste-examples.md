@@ -77,3 +77,28 @@ To add a variable:
 
 > Variable *names* should **never** contain spaces.
 
+## Using variables in content
+
+### Using the value of a variable as text
+
+Copy the bits in the source of this page **between, but not including** the \`\`\` lines:
+
+{% raw %}
+```
+{{ book.variableName }}
+```
+{% endraw %}
+
+### Controlling whether a block of text is rendered
+
+Copy the bits in the source of this page **between, but not including** the \`\`\` lines:
+
+{% raw %}
+```
+{% if book.variableName in ['value1', 'value2'] %}
+Insert the text you want to conditionally render here.
+{% endif %}
+```
+{% endraw %}
+
+
