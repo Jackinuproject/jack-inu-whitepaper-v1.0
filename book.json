@@ -11,7 +11,7 @@
     "plugins": ["wrapclass", "addcssjs"],
     "pluginsConfig": {
         "addcssjs": {
-            "css": []
+            "css": ["https://fontlibrary.org/face/hk-grotesk"]
         }
     }
 }
