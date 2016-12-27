@@ -3,6 +3,19 @@
     page-break-after: always;
 }
 
+.page-break {
+    page-break-after: always:
+}
+
 ol.multiple-choice {
     list-style-type: upper-alpha; 
+}
+
+.tm-magenta {
+
+}
+
+h1 {
+    border-style: solid;
+    border-top: thick double #ff0000;
 }
