@@ -7,10 +7,16 @@
             "notes"
         ]
     },
-    "plugins": ["wrapclass", "addcssjs"],
+    "plugins": [
+        "wrapclass",
+        "addcssjs",
+        "richquotes"
+    ],
     "pluginsConfig": {
         "addcssjs": {
-            "css": ["https://fontlibrary.org/face/hk-grotesk"]
+            "css": [
+                "https://fontlibrary.org/face/hk-grotesk"
+            ]
         }
     }
 }
