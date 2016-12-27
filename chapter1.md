@@ -1,6 +1,5 @@
-# First Chapter
+# Toplevel Heading
 
-![](/images/Megan Wedding Photo.jpg)
 ## This is the section heading
 
 ### Heading 3
