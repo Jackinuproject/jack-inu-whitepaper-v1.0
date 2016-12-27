@@ -1,0 +1,8 @@
+/* CSS for ebook */
+.slide-break {
+    page-break-after: always;
+}
+
+ol.multiple-choice {
+    list-style-type: upper-alpha; 
+}

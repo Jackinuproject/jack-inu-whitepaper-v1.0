@@ -1,0 +1,4 @@
+/* CSS for mobi */
+.slide-break {
+    page-break-after: always;
+}

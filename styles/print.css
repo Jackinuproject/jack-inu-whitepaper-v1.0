@@ -1,0 +1,8 @@
+/* CSS for print */
+.slide-break {
+    page-break-after: always;
+}
+
+.multiple-choice {
+    list-style-type: upper-alpha;
+}    

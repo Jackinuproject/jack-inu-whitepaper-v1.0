@@ -1,0 +1,16 @@
+{
+    "variables": {
+        "edition": "instructor",
+        "slides": false,
+        "outputContent": [
+            "content",
+            "notes"
+        ]
+    },
+    "plugins": ["wrapclass", "addcssjs"],
+    "pluginsConfig": {
+        "addcssjs": {
+            "css": []
+        }
+    }
+}

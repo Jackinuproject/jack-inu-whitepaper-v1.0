@@ -1,0 +1,4 @@
+/* CSS for epub */
+.slide-break {
+    page-break-after: always;
+}

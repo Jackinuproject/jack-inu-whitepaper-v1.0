@@ -1,0 +1,15 @@
+{
+    "variables": {
+        "edition": "student",
+        "slides": false,
+        "outputContent": [
+            "content"
+        ]
+    },
+    "plugins": ["wrapclass", "addcssjs"],
+    "pluginsConfig": {
+        "addcssjs": {
+            "css": []
+        }
+    }
+}

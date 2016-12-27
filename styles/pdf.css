@@ -1,0 +1,4 @@
+/* CSS for pdf */
+.slide-break {
+    page-break-after: always;
+}
