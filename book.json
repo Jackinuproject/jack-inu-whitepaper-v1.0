@@ -4,7 +4,7 @@
         "slides": false,
         "outputContent": [
             "content"
-        ],
+        ]
     },
     "plugins": ["wrapclass", "addcssjs"],
     "pluginsConfig": {
