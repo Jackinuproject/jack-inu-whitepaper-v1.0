@@ -2,18 +2,23 @@
 
 @font-face {
   font-family: 'TeleGrotesk';
-  src: url("../fonts/TeleGroteskNormal.eot?") format("eot"), url("../fonts/TeleGroteskNormal.woff") format("woff"); }
+  src: url("../fonts/TeleGroteskNormal.eot?") format("eot"), url("../fonts/TeleGroteskNormal.woff") format("woff"); 
+}
 @font-face {
   font-family: 'TeleGroteskFett';
-  src: url("../fonts/TeleGroteskFett.eot?") format("eot"), url("../fonts/TeleGroteskFett.woff") format("woff"); }
+  src: url("../fonts/TeleGroteskFett.eot?") format("eot"), url("../fonts/TeleGroteskFett.woff") format("woff"); 
+}
 @font-face {
   font-family: 'TeleGroteskHalbfett';
-  src: url("../fonts/TeleGroteskHalbfett.eot?") format("eot"), url("../fonts/TeleGroteskHalbfett.woff") format("woff"); }
+  src: url("../fonts/TeleGroteskHalbfett.eot?") format("eot"), url("../fonts/TeleGroteskHalbfett.woff") format("woff"); 
+}
 @font-face {
   font-family: 'TeleGroteskUltra';
-  src: url("../fonts/TeleGroteskUltra.eot?") format("eot"), url("../fonts/TeleGroteskUltra.woff") format("woff"); }
+  src: url("../fonts/TeleGroteskUltra.eot?") format("eot"), url("../fonts/TeleGroteskUltra.woff") format("woff"); 
+}
 * {
-  font-weight: normal !important; }
+  font-weight: normal !important; 
+}
 
 
 .book.font-family-1 {
