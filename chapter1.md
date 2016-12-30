@@ -1,5 +1,3 @@
-# Toplevel Heading
-
 View the source of this page to see convenient snippets. 
 
 ## This is the section heading

@@ -8,11 +8,12 @@
         ],
         "productName": "T Mobile Router"
     },
-    "plugins": [ 
+    "plugins": [
         "wrapclass",
         "addcssjs",
         "richquotes",
-        "remark-inline"
+        "remark-inline",
+        "betterpagetitles"
     ],
     "pluginsConfig": {
         "addcssjs": {
@@ -21,5 +22,5 @@
         "remark-inline": {
             "styles": "<link src='styles/website.css' ref='stylesheet' />"
         }
-    } 
+    }
 }

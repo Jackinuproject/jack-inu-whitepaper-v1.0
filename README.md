@@ -1,5 +1,3 @@
-# About this Prototype
-
 ![](/pdf/gitbook/images/apple-touch-icon-precomposed-152.png)
 
 ## Slideshows

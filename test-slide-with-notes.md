@@ -1,5 +1,3 @@
-# This is slide content
-
 ## This is a secondary heading
 
 ???
