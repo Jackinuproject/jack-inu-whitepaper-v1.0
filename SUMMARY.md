@@ -1,6 +1,5 @@
 # Summary
 
-* <a href="presentation.html" target="_blank">Slideshow</a>
 * [Introduction](README.md)
 * [Snippets](chapter1.md)
 * [Using Variables](copypaste-examples.md)
