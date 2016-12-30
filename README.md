@@ -1,6 +1,7 @@
 # About this Prototype
 
 ![](/pdf/gitbook/images/apple-touch-icon-precomposed-152.png)
+[slideshow](slideshow.html)
 
 This book is pre-configured to produce styling consistent with T-Mobile's style guidelines. Use this book as a template for creating new books. 
 
