@@ -17,7 +17,7 @@
     "pluginsConfig": {
         "addcssjs": {
             "css": []
-        }
+        },
         "remark-inline": {}
     } 
 }
