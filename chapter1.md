@@ -1,5 +1,7 @@
 View the source of this page to see convenient snippets. 
 
+# Do not use the toplevel heading
+
 ## This is the section heading
 
 ### Heading 3
