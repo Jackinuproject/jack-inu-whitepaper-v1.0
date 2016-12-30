@@ -29,7 +29,8 @@
                 "h": 2360
             },
             "background": {
-                "background-color": "#FFF"
+                "background-color": "#FFF",
+                "color": "#FFF"
             }
         }
     } 
