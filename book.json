@@ -11,8 +11,7 @@
     "plugins": [ 
         "wrapclass",
         "addcssjs",
-        "richquotes",
-        
+        "richquotes"
     ],
     "pluginsConfig": {
         "addcssjs": {
