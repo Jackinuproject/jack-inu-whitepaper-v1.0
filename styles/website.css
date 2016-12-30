@@ -23,6 +23,14 @@
    
 }
 
+body {
+    font-family: "TeleGroteskHalbfett", sans-serif;
+    font-weight: normal; 
+   font-style: normal; 
+   
+}
+
+
 ol li li {
     list-style-type: upper-alpha; 
 }
