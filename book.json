@@ -18,6 +18,8 @@
         "addcssjs": {
             "css": []
         },
-        "remark-inline": {}
+        "remark-inline": {
+            "css": "book.css"
+        }
     } 
 }
