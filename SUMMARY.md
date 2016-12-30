@@ -1,6 +1,5 @@
 # Summary
 
-* [Slideshow](presentation.html)
 * [Introduction](README.md)
 * [Snippets](chapter1.md)
 * [Using Variables](copypaste-examples.md)
