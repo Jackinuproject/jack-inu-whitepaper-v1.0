@@ -2,3 +2,8 @@
 .slide-break {
     page-break-after: always;
 }
+
+@page {
+    size: 11in 8.5in;
+    margin: 0.5in;
+}
