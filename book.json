@@ -12,10 +12,7 @@
         "wrapclass",
         "addcssjs",
         "richquotes",
-        "autocover",
-        "betterpagetitles",
-        "collapsible-menu",
-        "presentation"
+        "autocover"
     ],
     "pluginsConfig": {
         "addcssjs": {
