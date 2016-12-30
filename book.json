@@ -17,6 +17,19 @@
     "pluginsConfig": {
         "addcssjs": {
             "css": []
-        }
+        },
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "Arial",
+                "color": "#e20074"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "background-color": "#fff"
+            }
     } 
 }
