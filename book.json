@@ -8,7 +8,7 @@
         ],
         "productName": "T Mobile Router"
     },
-    "plugins": [
+    "plugins": [ 
         "wrapclass",
         "addcssjs",
         "richquotes"
