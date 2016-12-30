@@ -12,7 +12,7 @@
         "wrapclass",
         "addcssjs",
         "richquotes",
-        "remark-inline",
+        "remark-inline"
     ],
     "pluginsConfig": {
         "addcssjs": {
