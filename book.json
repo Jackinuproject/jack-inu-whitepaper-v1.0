@@ -1,12 +1,11 @@
 {
     "variables": {
-        "edition": "master",
+        "edition": "instructor",
         "slides": false,
         "outputContent": [
             "content",
             "notes"
-        ],
-        "productName": "T Mobile Router"
+        ]
     },
     "plugins": [
         "wrapclass",
