@@ -19,7 +19,7 @@
             "css": []
         },
         "remark-inline": {
-            "styles": "<link src='styles/website.css' ref='stylesheet' />"
+            "styles": "<link src='styles/website.css' ref='stylesheet'/>"
         }
     }
 }
