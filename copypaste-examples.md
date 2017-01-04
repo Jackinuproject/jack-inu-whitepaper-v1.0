@@ -1,5 +1,3 @@
-# Using Variables
-
 These examples are for the purpose of showing you how to do things that are a little more "advanced" than basic markdown, but needed for making beautiful docs.
 
 ## Add a variable and reference it in the book

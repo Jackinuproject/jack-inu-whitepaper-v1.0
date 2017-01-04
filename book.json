@@ -11,14 +11,15 @@
         "wrapclass",
         "addcssjs",
         "richquotes",
-        "autocover",
-        "download-pdf"
+        "remark-inline",
+        "betterpagetitles"
     ],
     "pluginsConfig": {
         "addcssjs": {
-            "css": [
-                "https://fontlibrary.org/face/hk-grotesk"
-            ]
+            "css": []
+        },
+        "remark-inline": {
+            "styles": "<link src='styles/website.css' ref='stylesheet' />"
         }
     }
 }
