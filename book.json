@@ -5,7 +5,8 @@
         "outputContent": [
             "content",
             "notes"
-        ]
+        ],
+        "newVariableName": "Jefferson Heard"
     },
     "plugins": [
         "wrapclass",
